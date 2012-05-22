@@ -1,0 +1,1 @@
+This is a repository for the Community Day 2012 session 'GitHub for .NET developers'
